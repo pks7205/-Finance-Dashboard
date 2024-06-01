@@ -8,8 +8,8 @@ The personalized finance dashboard integrates multiple financial data sources, i
 ## Dataset:
 The dataset used for this dashboard contains majorly my incomes and Expenses resource,
 
-Date: The date of each transaction.
-Description: A brief description of each transaction, which is used to extract payment type information.
+* Date: The date of each transaction.
+* Description: A brief description of each transaction, which is used to extract payment type information.
 
 ## Key Features:
 * Data Integration: Seamlessly integrates data from various sources such as bank accounts, income statements, investment portfolios, and expense reports.
